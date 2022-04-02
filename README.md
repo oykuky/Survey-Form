@@ -14,7 +14,7 @@
       
  ##### The <style> tag is used to define style information (CSS) for a document.
  ##### Inside the <style> element you specify how HTML elements should render in a browser.
- ###### I have stored the test questions in the unordered list
+ ###### I have arranged the test questions in the unordered list.
   ```
   <ul style="list-style-type:none">
             <li><h3>1.) I have a hard time feeling relaxed</h3></li>
